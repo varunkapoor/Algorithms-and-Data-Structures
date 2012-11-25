@@ -1,0 +1,30 @@
+This repository is a collection of Algorithms and data structures.
+
+ALGORITHMS:
+
+* Kruskal Algorithm
+* Djikstra Algorithm
+* Floyd Warshal Algotithm
+* Prim Test Algorithm
+* Knuth Morris Pratt Algorithm
+* Max flow Min cut Algorithm
+* Bellman Ford Algorithm
+* Connected Component
+* Bipartite Graphs
+* ART Algorithm
+* Sorting Algorithms
+* Searching Algorithms
+* Max Subarray problem
+* Breadth first search
+* Depth first search
+* Cycle Detection Algorithm
+* Ad-hoc algorithms
+
+DATA STRUCTURES: 
+
+* Sets
+* Trees
+* Maps
+* Grids
+* Graphs
+* Red Black Trees
